@@ -4,7 +4,7 @@ This is a simple landing page for **JetClean Solutions**, a fake pressure washin
 
 ## Live Preview
 
-You can view the live version of the project here:[Live Site](
+You can view the live version of the project here:[Live Site](https://worleymatt93.github.io/JetClean-Landing-Page/)
 
 ## Features
 
